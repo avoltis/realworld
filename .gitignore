@@ -1,14 +1,5 @@
 .DS_Store
 /node_modules
-/src/node_modules/@sapper
-/.sapper/
-/__sapper__
-yarn.lock
-yarn-error.log
-/cypress/screenshots/
-/templates/.*
-/export/
-/build/
-/app/manifest/
-/.sessions/
-/.vscode
+/.svelte
+/.netlify
+/.vercel_build_output
